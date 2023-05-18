@@ -1,4 +1,4 @@
-# Scrimba Twimba  
+# Password Generator  
 
 Project for Scrimba's Front-End Developer Career Path where we built a Password Generator with HTML, CSS, and Javascript.
 https://www.scrimba.com
