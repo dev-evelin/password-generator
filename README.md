@@ -26,7 +26,7 @@ https://github.com/dev-evelin/password-generator/assets/107203586/374f0194-6c06-
 
 ## Links
 
-- Live Site URL: [https://dev-evelin-twimba.netlify.app/](https://your-live-site-url.com)
+- Live Site URL: [[https://dev-evelin-twimba.netlify.app/](https://your-live-site-url.com)](https://dev-evelin-password-generator.netlify.app/)
 
 ## Connect with me::
 
