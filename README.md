@@ -18,8 +18,11 @@ https://www.scrimba.com
 ## Video
 
 
-https://user-images.githubusercontent.com/107203586/207392590-ff44b23c-187d-437c-957c-ee0d7f2f9ea6.mov
 
+https://github.com/dev-evelin/password-generator/assets/107203586/374f0194-6c06-44f6-91a9-995dcea975de
+
+
+ 
 
 ## Links
 
